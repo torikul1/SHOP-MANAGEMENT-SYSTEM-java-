@@ -1,0 +1,5 @@
+Transaction ID 12345
+Date 2024-05-12
+Time 143000
+Customer abc
+Amount 50.00

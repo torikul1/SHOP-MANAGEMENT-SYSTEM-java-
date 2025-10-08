@@ -1,0 +1,4 @@
+Mango Juice--- 00.0 tk.
+ Banana Juice----10500.0 tk.
+Strawberry Juice---00.0 tk.
+500.0 tk Total.
